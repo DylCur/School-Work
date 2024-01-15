@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1596fc783b23fe84","type":"file","file":"English/Literature/Romeo And Juliet/Tybalt as a Villain.md","x":-40,"y":12,"width":600,"height":808},
+		{"id":"7b2e6b6a0721e251","type":"file","file":"English/Literature/Romeo And Juliet/Act 1 Scene 5.md","x":-500,"y":12,"width":400,"height":808},
+		{"id":"2026ee7f396ae941","x":-500,"y":-360,"width":400,"height":320,"type":"text","text":"Lit Essay structure\n\n- Introduction,\n- Moment 1\n- Moment 2\n- Moment 3\n- Conclusion"}
+	],
+	"edges":[
+		{"id":"b9439e40d3be6833","fromNode":"1596fc783b23fe84","fromSide":"left","toNode":"7b2e6b6a0721e251","toSide":"right","color":"1"},
+		{"id":"e3ce85be2c447168","fromNode":"1596fc783b23fe84","fromSide":"top","toNode":"2026ee7f396ae941","toSide":"right"},
+		{"id":"6e1c6b6c9f6bf399","fromNode":"7b2e6b6a0721e251","fromSide":"top","toNode":"2026ee7f396ae941","toSide":"bottom"}
+	]
+}
