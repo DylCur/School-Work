@@ -15,4 +15,8 @@
 # The extract
 
 [[ACC Stave One]]
-[[A Christmas Carol]]
+[[A Christmas Carol | A Christmas Carol In its entirety]]
+
+Ignorance and want
+
+Scrooge is a miser and miserable

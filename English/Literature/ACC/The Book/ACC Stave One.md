@@ -8,8 +8,15 @@
 He had so heated himself with rapid walking in the fog and frost, this nephew of Scrooge's, that he was all in a glow; his face was ruddy and handsome; his eyes sparkled, and his breath smoked again.
 
 "Christmas a humbug, uncle!" said Scrooge's nephew.  "You don't mean that, I am sure."
-
+#### Key Quotation
+***
 "I do," said Scrooge.  "Merry Christmas!  What right have you to be merry?  What reason have you to be merry?  You're poor enough."
+***
+## Analysis
+
+The noun "right" is an entitlement which shows the scrooge believes that Fred is too poor to be happy as he says that he is "poor enough"
+
+***
 
 "Come, then," returned the nephew gaily.  "What right have you to be dismal?  What reason have you to be morose?  You're rich enough."
 
@@ -27,4 +34,13 @@ Scrooge having no better answer ready on the spur of the moment, said "Bah!" aga
 
 "Let me leave it alone, then," said Scrooge.  "Much good may it do you!  Much good it has ever done you!"
 
+#### Key Quotation
+***
 "There are many things from which I might have derived good, by which I have not profited, I dare say," returned the nephew.  "Christmas among the rest.  But I am sure I have always thought of Christmas time, when it has come round -- apart from the veneration due to its sacred name and origin, if anything belonging to it can be apart from that -- as a good time: a kind, forgiving, charitable, pleasant time: the only time I know of, in the long calendar of the year, when men and women seem by one consent to open their shut-up hearts freely, and to think of people below them as if they really were fellow-passengers to the grave, and not another race of creatures bound on other journeys.  And therefore, uncle, though it has never put a scrap of gold or silver in my pocket, I believe that it has done me good, and will do me good; and I say, God bless it!"
+***
+
+## Analysis
+
+Soliloquy - this isn't Fred talking to Scrooge; this is Dickens talking to the reader (contemporarily the elite) - as scrooge is a metaphor for the government - and telling the reader about what he believes.
+
+***

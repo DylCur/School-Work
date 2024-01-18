@@ -4,37 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4aef3caadcc82c4f",
+        "id": "55cf978b500acc17",
         "type": "tabs",
-        "dimension": 50.219619326500734,
         "children": [
           {
-            "id": "2cb24ac35b7b1dd9",
+            "id": "af292ae56919af37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Christmas Carol.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2036019d4479389a",
-        "type": "tabs",
-        "dimension": 49.780380673499266,
-        "children": [
-          {
-            "id": "885f9e31bfed0881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACC Stave One.md",
+                "file": "Science/Physics/Electrical Power Calculations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Literature",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +76,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Christmas Carol.md",
+                "file": "Science/Physics/Electrical Power Calculations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Christmas Carol.md",
+                "file": "Science/Physics/Electrical Power Calculations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Christmas Carol.md"
+                "file": "Science/Physics/Electrical Power Calculations.md"
               }
             }
           },
@@ -170,13 +148,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,17 +166,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2cb24ac35b7b1dd9",
+  "active": "af292ae56919af37",
   "lastOpenFiles": [
+    "English/Literature/ACC/A Christmas Carol - Essay Writing.md",
+    "Science/Physics/Electrical Power Calculations.md",
+    "English/Literature/ACC/The Book/A Christmas Carol.md",
+    "English/Literature/ACC/The Book/ACC Stave One.md",
     "English/Literature/ACC/A Christmas Carol - Essay Planning.md",
-    "A Christmas Carol.md",
-    "ACC Stave One.md",
+    "English/Literature/ACC/The Book",
+    "Science/Science.canvas",
+    "Untitled.md",
+    "English/Language/Reteaches/Reteach Methods and Effects.md",
+    "English/Language/Key Words/Structural Features.md",
+    "English/Language/Reteaches",
+    "English/Language/Key Words/Alienate.md",
+    "English/Language/Key Words",
     "English/Literature/Romeo And Juliet/Act 1 Scene 5.md",
     "English/Literature/ACC",
     "Science/Biology/The Pill.md",
     "English/Literature/Romeo And Juliet",
     "Science/Biology/Contraception.md",
-    "Science.canvas",
     "English/Literature/Romeo And Juliet/Tybalt as a Villain.md",
     "English/Literature/Romeo And Juliet/Romeo and Juliet.canvas",
     "English/Literature/Untitled.canvas",
@@ -210,9 +195,6 @@
     "Science/Biology",
     "English/Language",
     "English/Literature",
-    "Maths",
-    "Science",
-    "English",
     "Welcome.md"
   ]
 }
