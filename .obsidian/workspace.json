@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Physics/Electrical Power Calculations.md",
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b824892b4b76161b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science/Physics/Magnets and Magnetic Fields.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,7 +80,7 @@
             }
           },
           {
-            "id": "cba906e2cb0fa3c3",
+            "id": "251c8e3dff604940",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Physics/Electrical Power Calculations.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Physics/Electrical Power Calculations.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Physics/Electrical Power Calculations.md"
+                "file": "README.md"
               }
             }
           },
@@ -168,8 +181,10 @@
   },
   "active": "af292ae56919af37",
   "lastOpenFiles": [
-    "English/Literature/ACC/A Christmas Carol - Essay Writing.md",
+    "Science/Physics/Magnets and Magnetic Fields.md",
+    "README.md",
     "Science/Physics/Electrical Power Calculations.md",
+    "English/Literature/ACC/A Christmas Carol - Essay Writing.md",
     "English/Literature/ACC/The Book/A Christmas Carol.md",
     "English/Literature/ACC/The Book/ACC Stave One.md",
     "English/Literature/ACC/A Christmas Carol - Essay Planning.md",
