@@ -24,4 +24,4 @@
 4) The glucose level returns to normal
 
 **This is a negative feedback loop**:
-- The body detects a change and then works to **reverse** the change/;'[poop]
+- The body detects a change and then works to **reverse** the change
