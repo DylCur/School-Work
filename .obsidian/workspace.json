@@ -13,10 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Biology/Hormones and Diabetes.md",
+                "file": "Science/Physics/Permanent and induced magnets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d47711c5eeb6530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1870406ef88e9b00",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Science/Science.canvas",
+                "viewState": {
+                  "x": 2844.084787275695,
+                  "y": 1067.8938637902284,
+                  "zoom": -1.5189550421962115
+                }
               }
             }
           }
@@ -67,7 +88,7 @@
             }
           },
           {
-            "id": "e816a9df51c0e759",
+            "id": "385b0b713e678e2c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -96,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Biology/Hormones and Diabetes.md",
+                "file": "Science/Physics/Permanent and induced magnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Biology/Hormones and Diabetes.md",
+                "file": "Science/Physics/Permanent and induced magnets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Biology/Hormones and Diabetes.md"
+                "file": "Science/Physics/Permanent and induced magnets.md"
               }
             }
           },
@@ -148,11 +169,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,9 +191,22 @@
   },
   "active": "e541cbf4ba8736d3",
   "lastOpenFiles": [
+    "Pasted image 20240123125735.png",
+    "Science/Science.canvas",
+    "Science/Physics/Permanent and induced magnets.md",
+    "Pasted image 20240123125650.png",
+    "Pasted image 20240123124734.png",
+    "Pasted image 20240123123729.png",
+    "English/Paper 1 DDI.md",
+    "English/Language/Reteaches/Structure.md",
+    "English/Literature/AIC/Social Class in 'An Inspector Calls'.md",
+    "Untitled.md",
+    "English/Literature/AIC/An Inspector Calls.md",
+    "English/Literature/How.md",
     "Science/Biology/Hormones and Diabetes.md",
+    "English/Literature/AIC/Soci",
+    "English/Literature/AIC",
     "README.md",
-    "Paper 1 DDI.md",
     "H.md",
     "Science/Physics/Magnets and Magnetic Fields.md",
     "Pasted image 20240119110336.png",
@@ -180,7 +216,6 @@
     "English/Literature/ACC/The Book/ACC Stave One.md",
     "English/Literature/ACC/A Christmas Carol - Essay Planning.md",
     "English/Literature/ACC/The Book",
-    "Science/Science.canvas",
     "English/Language/Reteaches/Reteach Methods and Effects.md",
     "English/Language/Key Words/Structural Features.md",
     "English/Language/Reteaches",
@@ -198,8 +233,6 @@
     "Science/Physics",
     "Science/Chemistry",
     "Science/Biology",
-    "English/Language",
-    "English/Literature",
     "Welcome.md"
   ]
 }

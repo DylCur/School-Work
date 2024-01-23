@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "translucency": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 18
 }
