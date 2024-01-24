@@ -23,4 +23,9 @@
 
 The filmmaker uses pathetic fallacy throughout the scene with the weather changing based on the mood. Towards the beginning of the scene, there is heavy rain but some sunlight; the sunlight reflects Georgie's mood but the rain creates a foreboding atmosphere. Where he loses the boat, there is no longer any sunlight and its just rain; this emphasises the foreboding atmosphere and builds tension. The pathetic fallacy is used in order to build tension for the viewer as we can predict that something bad is going to happen through the juxtaposing, abnormal weather. 
 
-Pennywise calls him both George and Georgie which is strange as people typically only call you by one name at a time. This shows that pennywise is unfamiliar and therefore unpredictable and dangerousz
+Pennywise calls him both George and Georgie which is strange as people typically only call you by one name at a time. This shows that pennywise is unfamiliar and therefore unpredictable and dangerous
+
+# 24/01/24
+
+
+

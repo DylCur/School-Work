@@ -1,13 +1,14 @@
 {
 	"nodes":[
-		{"id":"e08eea9642468c50","x":1320,"y":-223,"width":2880,"height":2803,"type":"group","label":"Physics"},
+		{"id":"e08eea9642468c50","type":"group","x":1320,"y":-223,"width":5720,"height":6303,"label":"Physics"},
 		{"id":"cd2560a0b59f1c2c","type":"group","x":-195,"y":-223,"width":1435,"height":2003,"label":"Biology"},
 		{"id":"d59737dcaade5347","type":"file","file":"Science/Biology/Contraception.md","x":-160,"y":-200,"width":720,"height":1940},
 		{"id":"b483988de7b51972","type":"file","file":"Science/Biology/The Pill.md","x":600,"y":-200,"width":600,"height":560},
 		{"id":"c5350dbb47ecd7a0","type":"file","file":"Science/Biology/Hormones and Diabetes.md","x":600,"y":400,"width":600,"height":1340},
-		{"id":"e31746ee6e573404","x":1360,"y":-200,"width":960,"height":1920,"type":"file","file":"Science/Physics/Magnets and Magnetic Fields.md"},
-		{"id":"838779c9ce800426","x":2360,"y":-200,"width":720,"height":2760,"type":"file","file":"Science/Physics/Permanent and induced magnets.md"},
-		{"id":"1c8a2f3b9efd6d3e","x":3120,"y":-200,"width":1040,"height":1920,"type":"file","file":"Science/Physics/Electrical Power Calculations.md"}
+		{"id":"e31746ee6e573404","type":"file","file":"Science/Physics/Magnets and Magnetic Fields.md","x":1360,"y":-200,"width":960,"height":1920},
+		{"id":"838779c9ce800426","type":"file","file":"Science/Physics/Permanent and induced magnets.md","x":2360,"y":-200,"width":720,"height":2760},
+		{"id":"1c8a2f3b9efd6d3e","type":"file","file":"Science/Physics/Electrical Power Calculations.md","x":3120,"y":-200,"width":1040,"height":1920},
+		{"id":"91144d6b7203d013","x":4240,"y":-200,"width":1120,"height":4040,"type":"file","file":"Science/Physics/Electromagnetism.md"}
 	],
 	"edges":[]
 }
