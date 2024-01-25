@@ -27,5 +27,14 @@ Pennywise calls him both George and Georgie which is strange as people typically
 
 # 24/01/24
 
+There is a semantic field of speed with "running", "fast", "faster" and "pulling ahead" which creates chaos via a fast pace; it emphasises how fast the rain, boat and Georgie are ging which creates a sense of pandemonium. With each of these words being so close, this emphasises their speed and creates a claustrophobic feeling and makes the reader uncomfortable.
 
+"Reminded him of--"
 
+| Agree | Disagree |
+| ---- | ---- |
+| Action break: Makes the reader wonder<br>what is happening as it catches them off<br>guard as it happens in the middle of a <br>sentence but stops the reader from getting<br>important information. Represents how Georgie's<br>life was unfinished | ? |
+|  |  |
+|  |  |
+
+While I fully agree that King creates a sense of mystery and the reader is fearful for Georgie, I believe that the sense of fear is more prevalent throughout the text as the scenario is so alien that we don't get very curious and instead just want to get away from it.
