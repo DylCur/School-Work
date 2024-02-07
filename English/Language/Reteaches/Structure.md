@@ -38,3 +38,39 @@ There is a semantic field of speed with "running", "fast", "faster" and "pulling
 |  |  |
 
 While I fully agree that King creates a sense of mystery and the reader is fearful for Georgie, I believe that the sense of fear is more prevalent throughout the text as the scenario is so alien that we don't get very curious and instead just want to get away from it.
+
+# 25/01/2024
+
+"Our brains ache, in the merciless iced east winds that knife us"
+
+Sibilance which shows how sharp the wind is as s is a sharp sound. Knives leave scars which are long lasting damage and this could like to how the conflict has left a long lasting impact on him. This in conjunction with the sibilance, shows how much of a deep impact this has left on him both physically and mentally. Links to PTSD.
+
+
+>[!SUMMARY] Effects
+>
+>- Mystery
+>- Fear
+>- Dismay
+>- Shock
+>- Unnerve
+>- Surprise
+>- Anticipation
+>- Foreshadowing
+>- Question
+>- Uneasy
+>- Scared
+>- Curious
+>- Sympathetic
+>- Builds tension
+>- Affection
+>- Danger
+>- Paranoia
+>
+>>[!HELP|10] We Do
+>>
+>> Agreed Hypothesis:
+>> I Agree with the statement in that the reader fears for Georgie and that there is a sense of mystery but King is also successful in creating different effects on the reader. 
+>>   
+>> At the beginning, King introduces the character of Georgie in medias res. Georgie is chasing his paper boat down the road - the weather is storming. The pathetic fallacy foreshadows something sinister is will happen in this text because the storm connotes danger and horror. Georgie is a six year old child who shouldn't be out in this weather so the reader is curious as to why he is and feels uneasy about the situation. King characterises Georgie as vulnerable and innocent which makes us feel tense and protective of the child in this dangerous situation. Therefore, while king creates a sense of mystery and fear at the beginning, he also makes the reader feel unnerved and worried about the events
+>> 
+>> The middle of the text begins with the narrative interruption, "reminded him of--". This immediately unnerves the reader as we were about to be told something that was very important but the interruption stops us from being able to learn it. What's more, Georgie - a six year old boy who is unaccompanied - hears a "spooky sound" that we, the reader, want to know more about; this makes us worry as we fear the unknown and we worry for Georgie's safety from this unknown sound. The narrative interruption also builds tension as Georgie knows something that we don't and we want to know what it is; like when a child does something wrong and won't tell their parent. 
